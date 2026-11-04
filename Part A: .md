@@ -6,7 +6,9 @@
 | Service |        |
 | Price   |   O    |
 - Correct
-
+  - Food = 3 tokens
+  - Service = 1 token
+  - Price = 2 tokens
 
 ### Card 2:
 #### Prediction = dislike 
